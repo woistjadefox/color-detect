@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colortracking>
+  <meta>
+    <productName>Color Tracking for Gabarello</productName>
+    <author>ZHdK</author>
+  </meta>
+    
+  <preset>
+    <name>Violet</name>
+  </preset>
+  
+  <values>
+    <colorlow>
+	<hue>250</hue>
+	<sat>50</sat>
+        <val>0</val>
+    </colorlow>
+    
+    <colorhigh>
+	<hue>290</hue>
+	<sat>100</sat>
+        <val>100</val>
+    </colorhigh>    
+  </values>
+  
+</colortracking>
